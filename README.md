@@ -1,7 +1,8 @@
 
  ## Hi there,
- 
+ <center>
  [![Eikix’s github stats](https://github-readme-stats.vercel.app/api?username=Eikix)](https://github.com/Eikix)
+ </center>
  
 ### stuff I strive to get better at everyday - by actively building (my bread & butter lol)
 
