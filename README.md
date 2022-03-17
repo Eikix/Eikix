@@ -1,5 +1,4 @@
 
  ## Hi there, welcome 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eikix&title_color=818cf8&bg_color=111827&text_color=e5e7eb&border_color=e5e7eb)](https://github.com/Eikix)
-
+ 
+ ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
