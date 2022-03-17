@@ -1,4 +1,5 @@
 
- ## Hi there, welcome 👋
+ ## Hi there,
  
- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+ [![Eikix’s github stats](https://github-readme-stats.vercel.app/api?username=Eikix)](https://github.com/Eikix)
+ 
