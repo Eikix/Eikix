@@ -9,7 +9,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-<img width="275" alt="Cairo Programming language" src="https://user-images.githubusercontent.com/66871571/207874284-747c0ab4-3a3d-4d7d-942a-ebd3286be5cc.png">
+<img width="100" alt="Cairo Programming language" src="https://user-images.githubusercontent.com/66871571/207874284-747c0ab4-3a3d-4d7d-942a-ebd3286be5cc.png">
 
 
 
