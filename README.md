@@ -10,6 +10,7 @@ i'm building Kakarot zkEVM 🥕, the provable EVM written in Cairo! come check i
 ### actively building with:
 
 <img width="100" alt="Cairo Programming language" src="https://user-images.githubusercontent.com/66871571/207874284-747c0ab4-3a3d-4d7d-942a-ebd3286be5cc.png">
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
