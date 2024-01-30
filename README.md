@@ -2,26 +2,18 @@
  ## Hi there,
  
  [![Eikix’s github stats](https://github-readme-stats.vercel.app/api?username=Eikix)](https://github.com/Eikix)
+
+## Building Kakarot zkEVM
+
+i'm building Kakarot zkEVM 🥕, the provable EVM written in Cairo! come check it out: <https://github.com/kkrt-labs/kakarot>
  
 ### actively building with:
 
+<img width="100" alt="Cairo Programming language" src="https://user-images.githubusercontent.com/66871571/207874284-747c0ab4-3a3d-4d7d-942a-ebd3286be5cc.png">
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-<img width="100" alt="Cairo Programming language" src="https://user-images.githubusercontent.com/66871571/207874284-747c0ab4-3a3d-4d7d-942a-ebd3286be5cc.png">
-
-
-
----
-
- ### Stuff I work with
- 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ---
